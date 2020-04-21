@@ -1,5 +1,7 @@
 # webCoursework
 
+Web Programming Coursework from 2nd year of University
+
 Task summary
 
      -Construct a dynamic web-site for a domain of your choosing
@@ -13,3 +15,5 @@ Task summary
      -Server to be written in nodejs
   
      -Server to be deployed both locally (for testing) and in cloud
+
+I chose to implement a webpage based on my University Netball Club
